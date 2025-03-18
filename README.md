@@ -15,11 +15,11 @@ This Power BI project focuses on HR analytics and workforce tracking, providing 
 * Designed interactive visuals with filters and drill-through capabilities for detailed employee tracking 
 
 ### Dashboard Features
-* Dynamic Filters & Drill-Downs – HR teams can track individual employee attributes through the ‘People’ tab.
+* Dynamic Filters & Drill-Downs – HR teams can track individual employee or talent attributes through the ‘People’ tab.
 * Interactive Visuals – Designed for clear storytelling, reducing clutter while keeping insights actionable.
 * Performance Monitoring – Serves as an HR tracking system, offering real-time visibility into workforce trends.
 
-This project reinforced best practices in data storytelling—keeping visuals simple, insights sharp, and actions clear.
+This project reinforced best practices in data storytelling — keeping visuals simple, insights sharp, and actions clear.
 
 ![Throuple - HR Management Dashboard](https://gckarchive.com/wp-content/uploads/2025/03/HR-management1.png)
 
