@@ -2,7 +2,7 @@
 # Power-BI-HR-Management-Tracking-Dashboard
 
 ### Overview
-This Power BI project focuses on HR analytics and workforce tracking, providing insights into hiring trends, gender distribution, and department growth for a fictitious HR company – Throuple. Additionally, it functions as a tracking system, enabling HR teams to drill down into individual employee data for better decision-making.
+This Power BI project focuses on HR analytics and workforce tracking, providing insights into hiring trends, gender distribution, and department growth for a fictitious HR company – Throuple. Additionally, it functions as a tracking system, enabling HR teams to drill down into individual employee or talent data for better decision-making.
 
 ### Insights From The Data
 * Hiring Trends – Recruitment spiked in January, July, and September.
